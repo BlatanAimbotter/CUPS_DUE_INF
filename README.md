@@ -9,7 +9,7 @@ Telepítési folyamat:
 
 Töltsük le a git repot:
 
-$ git clone
+git clone https://github.com/BlatanAimbotter/CUPS_DUE_INF.git
 
 A letöltött szkriptet "chmod +x cups.sh" paranccsal tegyük futtathatóvá.
 
