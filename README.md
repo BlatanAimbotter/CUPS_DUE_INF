@@ -9,13 +9,16 @@ Telepítési folyamat:
 
 Töltsük le a git repot:
 
-git clone https://github.com/BlatanAimbotter/CUPS_DUE_INF.git
+<pre>git clone https://github.com/BlatanAimbotter/CUPS_DUE_INF.git</pre>
 
-Ezt követően egy "cd CUPS_DUE_INF" lépjünk be a mappába.
+Ezt követően lépjünk be a mappába.
+<pre>cd CUPS_DUE_INF</pre> 
 
-A letöltött szkriptet "chmod +x cups.sh" paranccsal tegyük futtathatóvá.
+A letöltött szkriptet tegyük futtathatóvá.
+<pre>chmod +x cups.sh</pre>
 
-Ezután futtassuk vagy a "./cups.sh" paranccsal vagy pedig a "bash cups.sh" paranccsal.
+Ezután futtassuk vagy a <pre>"./cups.sh"</pre> paranccsal vagy pedig a <pre>"bash cups.sh"</pre> 
+paranccsal.
 
 Ezt követően pedig figyeljük a kijelzőt és cselekedjünk mindig utasításnak megfelelően.
 
