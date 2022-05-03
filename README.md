@@ -18,3 +18,6 @@ A letöltött szkriptet "chmod +x cups.sh" paranccsal tegyük futtathatóvá.
 Ezután futtassuk vagy a "./cups.sh" paranccsal vagy pedig a "bash cups.sh" paranccsal.
 
 Ezt követően pedig figyeljük a kijelzőt és cselekedjünk mindig utasításnak megfelelően.
+
+Videó a telepítés folyamatáról:
+https://youtu.be/yQTM5SmP-NQ
