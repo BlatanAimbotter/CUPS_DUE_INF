@@ -11,6 +11,8 @@ Töltsük le a git repot:
 
 git clone https://github.com/BlatanAimbotter/CUPS_DUE_INF.git
 
+Ezt követően egy "cd CUPS_DUE_INF" lépjünk be a mappába.
+
 A letöltött szkriptet "chmod +x cups.sh" paranccsal tegyük futtathatóvá.
 
 Ezután futtassuk vagy a "./cups.sh" paranccsal vagy pedig a "bash cups.sh" paranccsal.
