@@ -1,7 +1,7 @@
 # CUPS_DUE_INF
 Kizárólagosan az Informatikai projektvezetés és gyakorlat 1.-es tárgy teljesítéséhez kerül feltöltésre.
 
-## Ismertetés
+## Ismertetés:
 Ez a bash script elősegíti és leegyszerűsíti a CUPS nevezetű GNU GPL licenszes szoftver telepítését Linux operációs rendszer alatt.
 A szkript rendkívül felhasználó barát és a telepítés is egyszerű például egy Raspbian OS alatt. 
 
