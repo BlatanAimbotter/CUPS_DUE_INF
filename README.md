@@ -18,9 +18,9 @@ A szkript rendkívül felhasználó barát és a telepítés is egyszerű péld�
 <pre>chmod +x cups.sh</pre>
 
 ### Futtassuk szkriptet:
-<pre>"./cups.sh"</pre>
+<pre>./cups.sh</pre>
 vagy
-<pre>"bash cups.sh"</pre> 
+<pre>bash cups.sh</pre> 
 
 
 ### Ezt követően pedig figyeljük a kijelzőt és cselekedjünk mindig utasításnak megfelelően.
